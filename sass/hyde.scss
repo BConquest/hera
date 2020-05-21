@@ -72,14 +72,14 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-	color: #fff;
+	color: #f8f8f8;
 }
 
 /* About section */
 .sidebar-about h1 {
-	color: #fff;
+	color: #f8f8f8;
 	margin-top: 0;
-	font-family: "Abril Fatface", serif;
+	font-family: "Fira Code", monospace;
 	font-size: 3.25rem;
 }
 
@@ -199,5 +199,5 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-10 .content a,
 .theme-base-10 .related-posts li a:hover {
-	color: #112244;
+	color: #f8f8f8;
 }
