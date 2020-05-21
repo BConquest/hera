@@ -101,6 +101,17 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+h2::before {
+	content: "#";
+}
+h3::before {
+	content: "##";
+}
+
+
+
+
+
 /* Body text */
 p {
   margin-top: 0;
