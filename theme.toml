@@ -1,0 +1,22 @@
+name = "hera"
+description = "A classic blog theme"
+license = "MIT"
+homepage = "https://github.com/BConquest/zola-hera"
+min_version = "0.5.0"
+demo = "https://bryantconquest.com"
+
+[extra]
+hera_sticky = true
+hera_reverse = false
+hera_theme = ""
+hera_links = [
+]
+
+[author]
+name = "Bryant Conquest"
+homepage = "https://bryantconquest.com"
+
+[original]
+author =  "mdo"
+homepage = "http://markdotto.com/"
+repo = "https://www.github.com/mdo/hyde"
