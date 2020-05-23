@@ -20,9 +20,15 @@ theme = "hera"
 Set a field in `extra` with a key of `hera_links`:
 ```toml
 [extra]
-hyde_links = [
+hera_links = [
     {url = "https://google.com", name = "Google.com"},
     {url = "https://google.fr", name = "Google.fr"},
 ]
 ```
 Each link needs to have a `url` and a `name`.
+
+## Todo
+- [ ] More Consistent Color Design/Style
+- [ ] Add support for analytics
+- [ ] Refactor to have sensible variable names
+- [ ] Better Tag Support
