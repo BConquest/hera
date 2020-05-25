@@ -28,7 +28,7 @@ hera_links = [
 Each link needs to have a `url` and a `name`.
 
 ## Todo
-- [ ] More Consistent Color Design/Style
+- [x] More Consistent Color Design/Style
 - [ ] Add support for analytics
 - [ ] Refactor to have sensible variable names
 - [ ] Better Tag Support
