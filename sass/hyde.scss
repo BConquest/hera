@@ -56,8 +56,8 @@ html {
 .sidebar {
 	text-align: center;
 	padding: 2rem 1rem;
-	color: rgba(255,255,255,.5);
-	background-color: #202020;
+	color: #e9f5f7;
+	background-color: #112244;
 }
 @media (min-width: 48em) {
 	.sidebar {
@@ -72,12 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-	color: #f8f8f8;
+	color: #F05365;
 }
 
 /* About section */
 .sidebar-about h1 {
-	color: #f8f8f8;
+	color: #AFD5AA;
 	margin-top: 0;
 	font-family: "Fira Code", monospace;
 	font-size: 3.25rem;
@@ -190,13 +190,4 @@ a.sidebar-nav-item:focus {
 		margin-left: 4rem;
 		margin-right: 22rem;
 	}
-}
-
-/* Blue */
-.theme-base-10 .sidebar {
-	background-color: #112244;
-}
-.theme-base-10 .content a,
-.theme-base-10 .related-posts li a:hover {
-	color: #f8f8f8;
 }
